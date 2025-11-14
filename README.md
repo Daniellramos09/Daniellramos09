@@ -29,7 +29,7 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniellramos09&theme=codeSTACKr"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniellramos09&theme=codeSTACKr"/>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
   
