@@ -29,11 +29,12 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielExpedito&theme=codeSTACKr"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielExpedito&theme=codeSTACKr"/>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=codeSTACKr"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniellramos09&theme=codeSTACKr"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielExpedito&theme=codeSTACKr"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
