@@ -29,9 +29,10 @@
 <br>
       
 <div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniellramos09&theme=codeSTACKr"/>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
+  
   <br>
   <br>
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=codeSTACKr"/>
@@ -93,9 +94,7 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
-</div>
+
 
 <br>
 <br>
