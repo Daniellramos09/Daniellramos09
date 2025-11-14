@@ -1,4 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f25c2c" />
+
+# 🖥☕🍃 Daniel Expedito - Desenvolvedor Back-end
+🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC, com experiência em projetos acadêmicos e freelance, sempre com foco em desenvolvimento de software e back-end.
+
+
+
 <br>
 <br>
 <br>
