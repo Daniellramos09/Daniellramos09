@@ -35,13 +35,18 @@
 <br>
       
 <div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniellramos09&theme=codeSTACKr"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
+
+  <p align="center">
+    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
+    <img align="center" height="195" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+    
+ 
   
-  <br>
-  <br>
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=codeSTACKr"/>
+  </p>
+  <img height="180" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=codeSTACKr"/>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
