@@ -7,31 +7,11 @@
 
 <br>
 <br>
-<br>
-
-
-
-<div align = "center">
-  
-  <b>`ダニエル`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Daniel Expedito</b>
-  </samp>
-</div>
-
 
 <div align = "center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&theme=algolia&width=435&lines=I+am+from+Brazil;+I+study+systems+development"  alt="Typing SVG"/>
 </div>
 
-<br>
-
-<div align = "center">
-  <img src="https://img.shields.io/badge/Daniel-black" />
-</div>
-      
-<br>
 <br>
       
 <div align="center">
