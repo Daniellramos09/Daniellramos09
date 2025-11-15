@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=f25c2c" />
+<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&theme=algolia" />-->
 
 # 🖥☕🍃 Daniel Expedito - Desenvolvedor Back-end
 🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC, com experiência em projetos acadêmicos e freelance, sempre com foco em desenvolvimento de software e back-end.
@@ -22,7 +22,7 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&color=F7542C&width=435&lines=I+am+from+Brazil;+I+study+systems+development"  alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&theme=algolia&width=435&lines=I+am+from+Brazil;+I+study+systems+development"  alt="Typing SVG"/>
 </div>
 
 <br>
@@ -37,15 +37,16 @@
 <div align="center">
 
   <p align="center">
-    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=codeSTACKr&utcOffset=8"/>
-    <img align="center" height="195" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=codeSTACKr"/>
+    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=algolia&utcOffset=8"/>
+    <img align="center" height="195" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=algolia"/>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-    
+  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=algolia)
  
   
   </p>
-  <img height="180" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=codeSTACKr"/>
+  <img height="180" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=algolia"/>
 
 </div>
 
