@@ -11,7 +11,7 @@
 
 
 
-<div align="center">
+<div align = "center">
   
   <b>`ダニエル`</b>
   <samp>
@@ -21,13 +21,13 @@
 </div>
 
 
-<div align="center" width="100%">
+<div align = "center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&theme=algolia&width=435&lines=I+am+from+Brazil;+I+study+systems+development"  alt="Typing SVG"/>
 </div>
 
 <br>
 
-<div align="center">
+<div align = "center">
   <img src="https://img.shields.io/badge/Daniel-black" />
 </div>
       
@@ -36,17 +36,13 @@
       
 <div align="center">
 
-  <p align="center">
-    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=algolia&utcOffset=8"/>
-    <img align="center" height="195" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=algolia"/>
-    
-  
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=algolia)
- 
-  
+  <p align="center"></p>
+        <img align="center" height="170" alt="Productive coding time distribution for user Daniellramos09, displayed as a card with algolia theme showing hours spent coding across different times of day" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniellramos09&theme=algolia&utcOffset=8"/>
+        <img align="center" height="170" alt="GitHub statistics card for user Daniellramos09 displaying repository and contribution metrics with algolia theme" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=algolia"/>
+        <img align="center" height="195" alt="Top programming languages used by user daniellramos09 in a compact layout with algolia theme, showing language distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=algolia"/>
+        
   </p>
-  <img height="180" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=algolia"/>
+    <img height="180" align="center" alt="GitHub profile activity overview for user Daniellramos09 showing contribution details and repository statistics with algolia theme" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=algolia"/>
 
 </div>
 
@@ -93,7 +89,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danielexpeditospr2@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-expedito-21b09a247/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-expedito-21b09a247/)
   
 </div>
 
