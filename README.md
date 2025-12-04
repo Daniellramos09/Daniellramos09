@@ -18,7 +18,7 @@
 
   <p align="center"></p>
         <img align="center" height="170" alt="GitHub statistics card for user Daniellramos09 displaying repository and contribution metrics with algolia theme" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniellramos09&theme=algolia"/>
-        <img align="center" height="195" alt="Top programming languages used by user daniellramos09 in a compact layout with algolia theme, showing language distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellramos09&layout=compact&theme=algolia"/>  
+          
   </p>
     <img height="180" align="center" alt="GitHub profile activity overview for user Daniellramos09 showing contribution details and repository statistics with algolia theme" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniellramos09&theme=algolia"/>
 
