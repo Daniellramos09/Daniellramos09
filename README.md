@@ -3,14 +3,11 @@
 # 🖥☕🍃 Daniel Expedito - Desenvolvedor Back-end
 🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC, com experiência em projetos acadêmicos e freelance, sempre com foco em desenvolvimento de software e back-end.
 
-
-
-<br>
 <br>
 
-<div align = "center" width="100%">
+<!-- <div align = "center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&theme=algolia&width=435&lines=I+am+from+Brazil;+I+study+systems+development"  alt="Typing SVG"/>
-</div>
+</div>  -->
 
 
 <br>
