@@ -38,7 +38,6 @@
 <td width="30%" align="center"><b>Backend Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
 </td>
 </tr>
