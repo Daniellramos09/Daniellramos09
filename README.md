@@ -47,7 +47,7 @@
 <td width="30%" align="center"><b>Database & BaaS</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="48" height="48"/>
+
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
