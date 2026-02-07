@@ -71,17 +71,18 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
   
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniellramos09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Daniel's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniellramos09&layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Top Languages"/>
-  </div>
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Daniellramos09&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" alt="Daniel's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniellramos09&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  </p>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniellramos09&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Daniellramos09&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-
 <br>
 <hr>
 <p align="center">
