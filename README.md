@@ -69,8 +69,7 @@
 
 <br>
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
+
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
