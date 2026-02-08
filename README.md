@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=html" title="Html" alt="Html" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" title="Css" alt="Css" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+
 </td>
 </tr>
 <tr>
