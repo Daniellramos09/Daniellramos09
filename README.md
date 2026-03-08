@@ -105,7 +105,7 @@
 <img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=Daniellramos09" alt="GitHub Streak"/>
 </div>
 
-
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniellramos09&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
