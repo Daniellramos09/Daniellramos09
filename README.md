@@ -3,9 +3,9 @@
 # 🖥☕🍃 Daniel Expedito - Desenvolvedor Back-end
 🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC, com experiência em projetos acadêmicos e freelance, sempre com foco em desenvolvimento de software e back-end.
 
-Atualmente faço Análise e Desenvolvimento de Sistemas pela Fatec, Faculdade Publica do Estado de São Paulo 
+🎓 Atualmente faço Análise e Desenvolvimento de Sistemas pela Fatec, Faculdade Publica do Estado de São Paulo 
 
-No momento, estou estudando java, Spring boot, SQL e Cloud
+👨‍🎓 No momento, estou estudando java, Spring boot, SQL e Cloud.
 
 
 <br>
