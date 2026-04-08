@@ -64,7 +64,7 @@
 <td width="30%" align="center"><b>DevOps</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
+
 </td>
 </tr>
 
