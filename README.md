@@ -31,7 +31,7 @@
 <tr>
 <td width="30%" align="center"><b>Frontend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+
 <img src="https://skillicons.dev/icons?i=html" title="Html" alt="Html" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" title="Css" alt="Css" width="48" height="48"/>
 
@@ -56,18 +56,6 @@
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
 
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
-</td>
-</tr>
-
-
-
-<tr>
-<td width="30%" align="center"><b>AI Development Tools</b></td>
-<td>
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/>
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
-<img src="https://skills.syvixor.com/api/icons?i=lovable" title="Lovable" alt="Lovable" width="48" height="48"/>
 </td>
 </tr>
 
