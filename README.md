@@ -54,7 +54,7 @@
 <tr>
 <td width="30%" align="center"><b>Arquitetura & Agilidade</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="API RESTful" alt="REST" width="48" height="48"/>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
 
