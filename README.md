@@ -54,9 +54,11 @@
 <tr>
 <td width="30%" align="center"><b>Arquitetura & Agilidade</b></td>
 <td>
-<img src="https://img.shields.io/badge/API_RESTful-0D1117?style=for-the-badge&logo=json&logoColor=white" alt="RESTful API"/>
-<img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
-<img src="https://img.shields.io/badge/Oracle_OCI_Certified-0D1117?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="API RESTful" alt="REST" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
 </td>
 </tr>
 
