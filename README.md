@@ -48,17 +48,18 @@
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
 </td>
 </tr>
 
 <tr>
-<td width="30%" align="center"><b>Arquitetura & Agilidade</b></td>
+<td width="30%" align="center"><b>Agilidade</b></td>
 <td>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
+
 </td>
 </tr>
 
