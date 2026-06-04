@@ -3,7 +3,9 @@
 🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC. Tenho experiência em projetos acadêmicos e freelance, sempre com forte foco em **desenvolvimento Back-end e construção de APIs RESTful**.
 
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec, Faculdade Pública do Estado de São Paulo. 
+
 ☁️ **Certificado:** Oracle Cloud Infrastructure (OCI) Foundations Associate.
+
 👨‍🎓 No momento, estou aprofundando meus conhecimentos em Java, Spring Boot, Docker, Cloud (AWS) e metodologias ágeis (Scrum).
 
 <br>
