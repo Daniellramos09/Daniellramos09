@@ -1,4 +1,4 @@
-# 🖥☕🍃 Daniel Expedito - Desenvolvedor Back-end
+# ☕🍃 Daniel Expedito - Desenvolvedor Back-end
 
 🏆 Estudante de Análise e Desenvolvimento de Sistemas na Fatec e formado em Programação de Jogos Digitais pela ETEC. Tenho experiência em projetos acadêmicos e freelance, sempre com forte foco em **desenvolvimento Back-end e construção de APIs RESTful**.
 
