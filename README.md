@@ -4,7 +4,7 @@
 
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec, Faculdade Pública do Estado de São Paulo. 
 
-☁️ **Certificado:** Oracle Cloud Infrastructure (OCI) Foundations Associate.
+☁️ **Certificação:** Oracle Cloud Infrastructure (OCI) Foundations Associate.
 
 👨‍🎓 No momento, estou aprofundando meus conhecimentos em Java, Spring Boot, Docker, Cloud (AWS) e metodologias ágeis (Scrum).
 
