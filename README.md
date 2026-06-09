@@ -49,6 +49,7 @@
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle OCI Certified" alt="Oracle OCI" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" />
 </td>
 </tr>
 
