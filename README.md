@@ -90,6 +90,10 @@
 <br> 
 <br> 
 
+<div align="center">
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=daniellramos09" alt="GitHub Streak"/>
+</div>
+
 
 <div align="center">
 <img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=daniellramos09" alt="GitHub Streak"/>
